@@ -1,0 +1,14 @@
+
+/* ----------- For screens 768px and larger (e.g. Tablets) ----------- */
+@media (min-width: 768px) {
+	body {
+    background: red;
+  }
+}
+
+/* ----------- For screens 1200px wide and larger (e.g. Desktops) ----------- */
+@media (min-width: 1200px) {
+  body {
+    background: greenyellow;
+  }
+}
